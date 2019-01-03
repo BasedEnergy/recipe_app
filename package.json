@@ -2,7 +2,7 @@
   "name": "recipe_list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://basedenergy.github.io/recipe_app/",
+  "homepage": "https://basedenergy.github.io/recipe_app/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
